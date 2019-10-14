@@ -1,0 +1,26 @@
+{
+  "name": "iberiacorebot",
+  "version": "1.0.0",
+  "description": "Bot para integrar core en discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "/hola"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecloudff7/IberiaCoreBot.git"
+  },
+  "author": "thecloudff7",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "discord.js": "^11.4.2",
+    "fs": "0.0.1-security",
+    "mysql": "^2.16.0",
+    "request": "^2.88.0"
+  },
+  "bugs": {
+    "url": "https://github.com/thecloudff7/IberiaCoreBot/issues"
+  },
+  "homepage": "https://github.com/thecloudff7/IberiaCoreBot#readme"
+}
