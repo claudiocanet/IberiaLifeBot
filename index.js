@@ -13,18 +13,18 @@ const mysql = require('mysql');
 const db = require("./config/database.json");
 
 //Conexion con base de datos
-const conexion = mysql.createConnection({
+/*const conexion = mysql.createConnection({
 	host: db.host,
 	user: db.user,
 	password: db.password,
 	database: db.database
-});
+});*/
 
 //verificar base
-conexion.connect((err) => {
+/*conexion.connect((err) => {
 	if (err) throw err;
 	console.log(colors.green('►[DataBase]=>'),	'!Base de datos conectada!');
-});
+});*/
 
 //Verificar cliente
 cliente.on('ready', () => {

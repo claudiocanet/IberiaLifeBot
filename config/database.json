@@ -1,7 +1,7 @@
 {
-	"host"		: "localhost",
-	"user"		: "root",  
-	"password"	: "hhh2011w",
-	"database"	: "iberialife" 
+	"host"		: "",
+	"user"		: "",
+	"password"	: "",
+	"database"	: ""
 
 }
